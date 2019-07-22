@@ -17,7 +17,7 @@ Please run the run_analysis.m file present in the folder. It will run all statis
 MATLAB (version r2019a)
 
 # Authors
-surbhit21 - All files
+surbhit21 - All files, except sem.m and updateParam.m
 
 Nitin Gupta, IIT Kanpur - All files
 
